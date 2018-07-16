@@ -2,3 +2,4 @@ hi
 this java based test appliaction
 
 we are using hardware lb to distriub the app connection
+we are using weblogic as app server and apache web server
