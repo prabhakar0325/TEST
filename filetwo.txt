@@ -1,2 +1,3 @@
 hi
 this java based test appliaction
+we are using weblogic as app server and apache web server
